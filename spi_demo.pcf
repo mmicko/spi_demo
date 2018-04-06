@@ -1,0 +1,3 @@
+set_io spi_miso 19
+set_io spi_mosi 18
+set_io spi_sck  13
